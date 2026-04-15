@@ -22,7 +22,7 @@
 
 I'm **Ramzi NIATI**, a passionate **Computer Engineering Student** at ENP (Algeria), building at the intersection of **Artificial Intelligence**, **Data Science**, and **Full-Stack Web Development**. I love turning complex problems into elegant, data-driven solutions.
 
-> 💬 *"Ask me about collaboration in projects — I'm always open to building something great together."*
+> 💬 *"Ask me about collaboration in projects! I'm always open to building something great together."*
 
 ---
 
