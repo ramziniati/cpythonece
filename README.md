@@ -97,7 +97,7 @@ I'm **Ramzi NIATI**, a passionate **Computer Engineering Student** at ENP (Alger
 
 ### 🤝 Let's Collaborate!
 
-I'm always open to working on exciting projects — whether it's a **research paper**, a **Kaggle competition**, a **hackathon**, or a **side project** that combines AI with real-world impact.
+I'm always open to working on exciting projects, whether it's a **research paper**, a **Kaggle competition**, a **hackathon**, or a **side project** that combines AI with real-world impact.
 
 📫 Reach me at **[ramzi.niati@g.enp.edu.dz](mailto:ramzi.niati@g.enp.edu.dz)**
 
